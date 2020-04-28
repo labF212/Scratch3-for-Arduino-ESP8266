@@ -1,5 +1,15 @@
-# scratch3
+# Scratch3 for IOT
 How to use and install arduino and esp8266
+
+Control your favorite physical computing device using Scratch 3.
+
+
+    Windows, Mac, **and Linux, including Raspberry Pi, are supported.**
+
+    Launch Scratch 3 via the internet or locally on your computer.
+
+    Control your Raspberry Pi either locally or from your PC.
+
 
 # Como Instalar
 Se desejar instalar o scratch3 use os links: 
@@ -11,7 +21,7 @@ https://mryslab.github.io/s3-extend/#
 
 
 
-##Simple Python Version Management: pyenv
+## Simple Python Version Management: pyenv
 https://github.com/pyenv/pyenv#installation
 
 pyenv lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
