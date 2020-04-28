@@ -44,3 +44,7 @@ python3 -m pip install --user --upgrade pip
 
 Caso seja necessário faça o update do python para a versão 3.7 seguindo:
 https://tecadmin.net/install-python-3-6-ubuntu-linuxmint/
+
+instalar pip 
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py --user
