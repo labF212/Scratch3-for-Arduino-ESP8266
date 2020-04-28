@@ -34,3 +34,13 @@ For Ubuntu Desktop:
 $ echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
 $ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
 
+user:~$ python3 -V
+Python 3.6.9
+
+$ pyenv install 3.7.7
+
+Se for necessário usar:
+python3 -m pip install --user --upgrade pip
+
+Caso seja necessário faça o update do python para a versão 3.7 seguindo:
+https://tecadmin.net/install-python-3-6-ubuntu-linuxmint/
