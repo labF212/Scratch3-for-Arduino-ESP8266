@@ -14,7 +14,7 @@ Control your favorite physical computing device using Scratch 3.
 # Como Instalar
 Se desejar instalar o scratch3 use os links: 
 - Windows e Mac: https://scratch.mit.edu/download/
-- Linux: https://scratux.org/#download
+- Linux: https://scratux.org/#download ou https://github.com/redshaderobotics/scratch3.0-linux/releases/tag/1.2.1
 
 # Como instalar a extensão
 https://mryslab.github.io/s3-extend/#
