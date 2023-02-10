@@ -9,7 +9,7 @@ RoboHAT MM1
 Control your favorite physical computing device using Scratch 3.
 
 
-    - Windows, Mac, **and Linux, including Raspberry Pi, are supported.**
+    - Windows, Mac, and Linux, including Raspberry Pi, are supported.
 
     - Launch Scratch 3 via the internet or locally on your computer.
 
