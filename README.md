@@ -1,14 +1,19 @@
 # Scratch3 for IOT
-How to use and install arduino and esp8266
+
+Arduino, Raspberry Pi, ESP-8266, Raspberry Pi Pico,
+Picoboard, Circuit Playground Express,
+RoboHAT MM1
+
+## Resumo em Português do manual: https://mryslab.github.io/s3-extend/
 
 Control your favorite physical computing device using Scratch 3.
 
 
-    Windows, Mac, **and Linux, including Raspberry Pi, are supported.**
+    - Windows, Mac, **and Linux, including Raspberry Pi, are supported.**
 
-    Launch Scratch 3 via the internet or locally on your computer.
+    - Launch Scratch 3 via the internet or locally on your computer.
 
-    Control your Raspberry Pi either locally or from your PC.
+    - Control your Raspberry Pi either locally or from your PC.
 
 
 # Como Instalar
