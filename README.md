@@ -29,6 +29,13 @@ Instale a extensão: pip3 install s3-extend
     - Instale a FirmataExpress, em Tools/Manage Libraries
     - Instale a Ultrasonic Library by Erick Simões, Tools/Manage Libraries
     - Compile e envie o FirmataExpress para o Arduino
-        - Select File/Examples and from the drop-down list, select FirmataExpress.   
+        - Seleccione File/Examples e na lista, escolha FirmataExpress.
+        - Depois faça enviar para o arduino (verifique se é a porta correta: ex: /dev/ttyACM0)
+- ESP-8266 NodeMCU
+    - No Arduino IDE instale a Telemetrix4ESP8266 Sketch em Tools/Manage Libraries
+    - Abra o ficheiro ino Telemetrix4ESP8266 e configure os parâmetros da rede: SSID e palavra-passe
+    - Verifique o endereço IP Address no ESP-8266, usando o monitor série do Arduino IDE
+- Raspbery PI
+    - Apenas precisa de ter instalado a extensão s3-extend
 
 
