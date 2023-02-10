@@ -22,4 +22,13 @@ Para utilizadores do Windows: Instale o Python antes
 
 Instale o pip fazendo: sudo apt install python3-pip
 Actualize o pip caso o tenha: pip3 install --upgrade pip
+Instale a extensão: pip3 install s3-extend
+
+#Prepare o seu microcontrolador
+- Arduino And RoboHAT MM1 - Using Arduino IDE
+    - Instale a FirmataExpress, em Tools/Manage Libraries
+    - Instale a Ultrasonic Library by Erick Simões, Tools/Manage Libraries
+    - Compile e envie o FirmataExpress para o Arduino
+        - Select File/Examples and from the drop-down list, select FirmataExpress.   
+
 
