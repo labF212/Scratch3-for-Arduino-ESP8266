@@ -6,14 +6,14 @@ RoboHAT MM1
 
 ## Resumo em Português do manual: https://mryslab.github.io/s3-extend/
 
-Control your favorite physical computing device using Scratch 3.
+Controle o seu microcontrolador favorito usando o Scratch 3.
 
 
-    - Windows, Mac, and Linux, including Raspberry Pi, are supported.
+    - Sistemas Operativos Suportados: Windows, Mac e Linux, incluindo o Raspberry Pi (ARM).
 
-    - Launch Scratch 3 via the internet or locally on your computer.
+    - Corra o Scratch 3 via the internet ou localmente no seu computador.
 
-    - Control your Raspberry Pi either locally or from your PC.
+    - Controle o seu Raspberry Pi localmente ou do seu PC.
 
 
 # Como Instalar
