@@ -66,4 +66,4 @@ Abrir a ligação no navegador: https://mryslab.github.io/s3onegpio/ e depois ad
 - Execute o ficheiro index.html com o Google Chrome 
 
 # Blocos do Arduino
-![image007](https://user-images.githubusercontent.com/43177468/218227410-773b7d62-002b-4a2f-aeb9-aa3adb5dd975.jpg)
+![ard_blocks](https://user-images.githubusercontent.com/43177468/218227542-da131d73-b084-4b05-a88a-836a34cd883c.png)
