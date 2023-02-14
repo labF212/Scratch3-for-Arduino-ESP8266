@@ -54,7 +54,7 @@ Instale a extensão: pip3 install s3-extend
     
 Em linux: s3a -c /dev/ttyACM0
 
-# Como correr O Scratch
+# Como correr o Scratch
 O navegador de internet recomendado para o Scratch3 OneGPIO extensions é o Google Chrome.
 
 ## Online
