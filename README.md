@@ -21,8 +21,7 @@ Controle o seu microcontrolador favorito usando o Scratch 3.
 - Para utilizadores do Windows: Instale o Python antes
 - Instale o pip fazendo: sudo apt install python3-pip
 - Actualize o pip caso o tenha: pip3 install --upgrade pip
-
-Instale a extensão: pip3 install s3-extend
+- Instale a extensão: pip3 install s3-extend
 
 # Prepare o seu microcontrolador
 - Arduino And RoboHAT MM1 - Using Arduino IDE
