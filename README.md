@@ -18,11 +18,9 @@ Controle o seu microcontrolador favorito usando o Scratch 3.
 
 # O que precisa e como instalar a extensão
 
-Para utilizadores do Windows: Instale o Python antes
-
-Instale o pip fazendo: sudo apt install python3-pip
-
-Actualize o pip caso o tenha: pip3 install --upgrade pip
+- Para utilizadores do Windows: Instale o Python antes
+- Instale o pip fazendo: sudo apt install python3-pip
+- Actualize o pip caso o tenha: pip3 install --upgrade pip
 
 Instale a extensão: pip3 install s3-extend
 
